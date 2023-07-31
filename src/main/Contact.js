@@ -55,7 +55,7 @@ export default function Contact() {
                             <h6>Meike</h6>
                             <p>Bendahara</p>
                             <p>Jika ada kepentingan bisa menghubungi</p>
-                            <a href="https://api.whatsapp.com/send/?phone=628517502-0581" target="_blank"><button type="button" class="glow-on-hover">Message</button></a>
+                            <a href="https://api.whatsapp.com/send/?phone=6285175020581" target="_blank"><button type="button" class="glow-on-hover">Message</button></a>
                         </div>
                     </div>
                 </div>
